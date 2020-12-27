@@ -5,7 +5,7 @@
 - I build things for web and mobile.
 - `JavaScript` is the vibe these days.
 - When I'm not coding or pushing pixels, I love spending some time with a sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513)
-- I deeply care about art, design & tech.
+- I deeply care about art, design and tech.
 - Pronouns: He/him.
 
 
