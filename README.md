@@ -5,7 +5,7 @@
 - I build things for web and mobile.
 - `JavaScript` is the vibe these days.
 - When I'm not coding or pushing pixels, I love spending some time with a sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513)
-- I deeply care about art, design and tech.
+- I deeply care about art, design, and tech.
 - Pronouns: He/him.
 
 
@@ -17,3 +17,5 @@ Here are some of the places you can find me. I go by the username `sohaibalam67`
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sohaibalam67)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sohaibalam67)
 [<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />](https://keybase.io/sohaibalam67)
+[<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/sohaibalam67)
+[<img align="left" alt="Hacker News" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ycombinator.svg" />](https://news.ycombinator.com/user?id=sohaibalam67)
