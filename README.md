@@ -7,6 +7,7 @@
 - When I'm not coding or pushing pixels, I love spending some time with a sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513)
 - I deeply care about art, design, and tech.
 - Pronouns: He/him.
+- PGP Public Key: [`83FA A887 3916 0461`](https://keybase.io/sohaibalam67/pgp_keys.asc)
 
 
 Here are some of the places you can find me. I go by the username `sohaibalam67` everywhere on the internet.
