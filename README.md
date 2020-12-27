@@ -23,4 +23,4 @@ Here are some of the places you can find me. I go by the username `sohaibalam67`
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7415250/sohaibalam67)
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/sohaibalam67)
 
-<img alt="Github Readme" src="https://sohaibalam67-github.herokuapp.com/readme/github.png?id=github_readme" />
+<img alt="Github Readme" src="https://sohaibalam67-github.herokuapp.com/readme/github?id=github_readme" />
