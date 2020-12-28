@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - I'm a fullstack developer at [Shoptree](https://github.com/Shoptree). Using Laravel, Vue, React, and React Native.
-- I love everything at the intersection of design and dev.
-- I build things for web and mobile.
-- `JavaScript` is the vibe these days.
-- When I'm not coding or pushing pixels, I love spending some time with a sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513)
-- I deeply care about art, design, and tech.
+- I love working at the intersection of design and dev.
+- I build stuff for web and mobile.
+- When I'm not coding or pushing pixels, I love spending some time with my sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513)
+- I'm currently building [Anymock](https://github.com/sohaibalam67/anymock-app).
 - Pronouns: He/him.
 - PGP Public Key: [`83FA A887 3916 0461`](https://keybase.io/sohaibalam67/pgp_keys.asc)
 
