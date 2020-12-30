@@ -6,7 +6,7 @@
 - When I'm not coding or pushing pixels, I love spending some time with my sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513).
 - I'm currently building [Anymock](https://github.com/sohaibalam67/anymock-app).
 - Pronouns: He/him.
-- PGP Public Key: [`83FA A887 3916 0461`](https://keybase.io/sohaibalam67/pgp_keys.asc)
+- PGP Public Key: [`83FA A887 3916 0461`](https://keybase.io/sohaibalam67/pgp_keys.asc?fingerprint=6093a95ee64be30014b7401583faa88739160461)
 
 
 Here are some of the places you can find me. I go by the username `sohaibalam67` everywhere on the internet.
