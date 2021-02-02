@@ -6,8 +6,6 @@
 - When I'm not coding or pushing pixels, I love spending some time with my sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513).
 - I'm currently building [Anymock](https://github.com/sohaibalam67/anymock-app).
 - Pronouns: He/him.
-- PGP Public Key: [`83FA A887 3916 0461`](https://keybase.io/sohaibalam67/pgp_keys.asc?fingerprint=6093a95ee64be30014b7401583faa88739160461)
-
 
 Here are some of the places you can find me. I go by the username `sohaibalam67` everywhere on the internet.
 
@@ -21,5 +19,3 @@ Here are some of the places you can find me. I go by the username `sohaibalam67`
 [<img align="left" alt="Hacker News" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ycombinator.svg" />](https://news.ycombinator.com/user?id=sohaibalam67)
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/7415250/sohaibalam67)
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/sohaibalam67)
-
-<img alt="" src="https://sohaibalam67-github.herokuapp.com/readme/github?id=github_readme" />
