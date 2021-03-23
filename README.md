@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Frontend Engineer at [Razorpay](https://github.com/razorpay).
+- Frontend Engineer at [Razorpay](https://github.com/razorpay).
 - I love working at the intersection of design and dev.
 - I build stuff for web and mobile.
 - When I'm not coding or pushing pixels, I love spending some time with my sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513).
