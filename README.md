@@ -1,14 +1,3 @@
-### Hi there 👋
-
-- Frontend Engineer at [Razorpay](https://github.com/razorpay).
-- I love working at the intersection of design and dev.
-- I build stuff for web and mobile.
-- When I'm not coding or pushing pixels, I love spending some time with my sketchpad. [Take a peek](https://twitter.com/sohaibalam67/status/1340355170417344513).
-- I'm currently building [Anymock](https://github.com/sohaibalam67/anymock-app).
-- Pronouns: He/him.
-
-Here are some of the places you can find me. I go by the username `sohaibalam67` everywhere on the internet.
-
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sohaibalam67)
 [<img align="left" alt="Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />](https://dribbble.com/sohaibalam67)
 [<img align="left" alt="Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />](https://goodreads.com/sohaibalam67)
